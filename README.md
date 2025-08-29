@@ -16,7 +16,7 @@ This project investigates the use of **mechanical cardiac signals** for **automa
 - **PPG, PCG and SCG recordings** acquired from clinical subjects. 
 - Dataset includes both **heart failure patients** and **control group**.
   
-![Data preprocessing pipeline](cardiac_preprocessing_pipeline.png)
+![Data preprocessing pipeline](cardiac_preprocessing_pipeline (2).png)
 
 ---
 
@@ -25,7 +25,7 @@ This project investigates the use of **mechanical cardiac signals** for **automa
 - Multiple convolutional layers followed by pooling and fully connected layers.  
 - Training with **early stopping** to prevent overfitting.
 
-![Model architecture](my_CNN.png)
+![Model architecture](MY_CNN.png)
 
 ---
 
