@@ -16,7 +16,7 @@ This project investigates the use of **mechanical cardiac signals** for **automa
 - **PPG, PCG and SCG recordings** acquired from clinical subjects. 
 - Dataset includes both **heart failure patients** and **control group**.
   
-![Data preprocessing pipeline](cardiac_preprocessing_pipeline_(2).png)
+![Data preprocessing pipeline](cardiac_preprocessing_pipeline.png)
 
 ---
 
