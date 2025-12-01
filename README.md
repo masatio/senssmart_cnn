@@ -1,6 +1,6 @@
 # Heart Failure Detection from synchronized PPG, PCG and SCG Signals using 1D CNNs
 
-This project investigates the use of **mechanical cardiac signals** for **automatic heart failure detection**, aiming to provide a low-cost, non-invasive, and widely deployable diagnostic tool. By applying deep learning to raw PPG beats, we evaluate the effectiveness of convolutional neural networks (CNNs) for distinguishing heart failure patients from healthy subjects.
+This project investigates the use of **mechanical cardiac signals** for **automatic heart failure detection**, aiming to provide a low-cost, non-invasive, and widely deployable diagnostic tool. By applying deep learning to raw PPG, PCG, and SCG beats, we evaluate the effectiveness of convolutional neural networks (CNNs) for distinguishing heart failure patients from healthy subjects.
 
 ---
 
