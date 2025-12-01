@@ -5,7 +5,7 @@ This project investigates the use of **mechanical cardiac signals** for **automa
 ---
 
 ## Key Contributions
-- Developed a **1D Convolutional Neural Network (CNN)** tailored for PPG signal classification.  
+- Developed a **1D Convolutional Neural Network (CNN)** tailored for cardiac signal classification.  
 - Evaluated performance on **13,550 segmented PPG, PCG, and SCG beats**.  
 - Compared different preprocessing strategies to optimize model robustness.  
 - Demonstrated that non-invasively acquired signals can reliably support **cardiac diagnostics** when combined with deep learning.
